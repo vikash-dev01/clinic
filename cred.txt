@@ -1,0 +1,13 @@
+drbdasdentist.co.in
+----------------------------\
+drbdasdentist.co.in          \
+id:        drbdas             }-filezilla
+Password: DC@dr2k26          /
+----------------------------/
+Database 
+Details
+
+Database:	drbdas_database
+Host:	
+Username:	drbdas_user
+Password:	pw4mFPqvCHf8YkrgvPMa
